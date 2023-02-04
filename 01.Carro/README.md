@@ -15,7 +15,7 @@ Essa atividade se propõe a implementar um carro ecológico que pode passear pel
 ### Dirigir. ###
 - Caso haja pelo menos uma pessoa no carro e algum combustível, ele deve gastar combustível andando e aumentar a quilometragem.
 - Nosso carro faz um kilômetro por litro de água.
-- Caso não exista combustível suficiente para completar a viagem inteira, dirija o que for possível e emita uma mensagem indicando quanto foi percorrido.
+- Caso não exista combustível suficiente para completar a viagem inteira dirija o que for possível e emita uma mensagem indicando quanto foi percorrido.
 
 ## Como foi feito?
 
